@@ -12,7 +12,7 @@ Favorite coursework (lab 8) of SEG3125 (Design & Analysis of User Interfaces) :)
 
 ### Features:
 
-- Dummy local database for handeling user authetication, login, & e-commerce engine.
+- Dummy local database for handeling user authetication, login, & e-commerce system.
 - Upload music
 - Checkout system
 - Analytics dashboard
