@@ -1,5 +1,7 @@
 # TuneFlow - A iTunes/Spotify Clone
 
+Favorite coursework (lab 8) of SEG3125 (Design & Analysis of User Interfaces) :)
+
 #### Source Code: "Lab-8"
 
 ### Tech Stack
